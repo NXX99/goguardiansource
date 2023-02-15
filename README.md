@@ -1,6 +1,5 @@
-# goguardiansource
-So this is the source code and assets of the GoGuardian extension.
+# schoolextension source
+So this is the source code and assets of various extensions we've grown to know and hate..
 
-This was extracting using a Keycode computer, and I'm lucky as the district forgot to disable the option for me to see hidden files and folders.
-So, yeah. use this to reverse engineer GoGuardian
-The folder "3.0.6445.1_0" is what contains the source 
+This was extracted using a Keycode computer, and I'm lucky as the district forgot to disable the option for me to see hidden files and folders.
+So, yeah. use this to reverse engineer those awful extensions
